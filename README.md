@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... C++, C#, Python
 - 🌱 I’m currently learning ... how to crack CTF 2.5+ games
 - 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... message me on Discord pete7201#8127
+- 📫 How to reach me ... message me on Discord pete7201#8127 or on Telegram @fnmwolf
 
 <!---
 fnmwolf/fnmwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
